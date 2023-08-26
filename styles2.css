@@ -1,0 +1,31 @@
+*{
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: white;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   padding: 2vh 2vw;
+   border-bottom: 2px solid white;
+}
+.rightNav{
+    display: flex;
+    justify-content: space-between;
+    width: 9vw;
+}
+
+.details{
+   margin: 50px; 
+}
+#name{
+ margin-top: 50px;
+}
+button{
+    margin-top: 10px;
+    background-color: white; 
+    color: black;
+    width:150px;
+    height: 50px;
+    margin-left:50px;
+}
